@@ -1,0 +1,9 @@
+1. Mulai
+2. Masukan nilai jari jari r
+3. Penetapan nilai konstanta
+4. Menghitung Luas(L) Atau keliling(K)
+5. Jika menghitung luas L = v x r x r
+6. Hasil perhitungan L
+7. Jika menghitung keliling K = 2 x v x r
+8. Hasil perhitungan K
+9. Selesai
