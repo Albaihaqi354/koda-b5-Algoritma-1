@@ -1,0 +1,7 @@
+1. Mulai
+2. Masuka Bilangan bulat(x)
+3. Bilangan x di bagi angka 2
+4. Jika hasil pembagian sama dengan 0 maka bilangan genap
+5. Jika hasil pembagian tidak sama dengan 0 maka bilangan ganjil
+6. Menampilkan hasil bilangan x genap atau ganjil
+7. Selesai
