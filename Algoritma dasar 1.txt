@@ -1,0 +1,9 @@
+1. Mulai
+2. Ambil gelas baru yaitu gelas C
+3. Ambil gelas A yang berisi teh
+4. Tuangkan teh yang ada di gelas A ke gelas C
+5. Ambil gelas B yang berisi kopi
+6. Tuangkan kopi yang ada di gelas B ke gelas A
+7. Ambil gelas c yang berisi teh
+8. Tuangkan teh yang berada di gelas C ke gelas B
+9. Selesai
